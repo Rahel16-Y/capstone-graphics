@@ -1,3 +1,4 @@
+
 # Hierarchical Solar System Simulator
 
 A real-time **Computer Graphics capstone project** built with **Python**, **PyOpenGL**, **GLUT**, and **NumPy**. It demonstrates hierarchical modeling, matrix transformations, parametric animation, and interactive camera controls — without external assets, textures, or 3D models.
@@ -299,3 +300,6 @@ Save screenshots to a `screenshots/` folder for your report.
 ## License
 
 Educational use — Computer Graphics Capstone Project.
+
+
+
